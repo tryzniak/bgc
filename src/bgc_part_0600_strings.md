@@ -3,7 +3,7 @@
 # vim: ts=4:sw=4:nosi:et:tw=72
 -->
 
-# Strings
+# Радкі
 
 [i[Strings]<]Finally! Strings! What could be simpler?
 
