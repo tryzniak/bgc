@@ -3,7 +3,7 @@
 # vim: ts=4:sw=4:nosi:et:tw=72
 -->
 
-# Functions {#functions}
+# Функцыі {#functions}
 
 > _"Sir, not in an environment such as this. That's why I've also been
 > programmed for over thirty secondary functions that---"_
