@@ -3,7 +3,7 @@
 # vim: ts=4:sw=4:nosi:et:tw=72
 -->
 
-# Arrays {#arrays}
+# Масівы {#arrays}
 
 > _“Should array indices start at 0 or 1?  My compromise of 0.5 was
 > rejected without, I thought, proper consideration.”_
@@ -21,7 +21,7 @@ But C only _barely_ has arrays! As we'll find out later, arrays are just
 syntactic sugar in C---they're actually all pointers and stuff deep
 down. _Freak out!_ But for now, let's just use them as arrays. _Phew_.
 
-## Easy Example
+## Просты прыклад
 
 Let's just crank out an example:
 
