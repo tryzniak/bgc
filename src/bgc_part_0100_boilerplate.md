@@ -45,7 +45,7 @@
 [is[Carriage return==>see `\r` operator]]
 [is[Hexadecimal==>see `0x` hexadecimal]]
 
-# Foreword
+# Прадмова
 
 > _C is not a big language, and it is not well served by a big book._
 >
