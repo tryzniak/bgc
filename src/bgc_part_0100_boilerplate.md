@@ -90,7 +90,7 @@ simple core and builds outward.
 And that's my excuse for writing such a hilariously large book for such
 a small, concise language.
 
-## Audience
+## Аўдыторыя
 
 This guide assumes that you've already got some programming knowledge
 under your belt from another language, such as
@@ -110,7 +110,7 @@ some honest entertainment for your reading pleasure. The only thing I
 can reasonably promise is that this guide won't end on a cliffhanger...
 or _will_ it?
 
-## How to Read This Book
+## Як чытаць кнігу
 
 The guide is in two volumes, and this is the first: the tutorial volume!
 
@@ -129,7 +129,7 @@ other time.
 Finally, glancing at the index (if you're reading the print version),
 the reference section entries are italicized.
 
-## Platform and Compiler
+## Платформа і кампілятар
 
 I'll try to stick to Plain Ol'-Fashioned [flw[ISO-standard C|ANSI_C]].
 Well, for the most part. Here and there I might go crazy and start
