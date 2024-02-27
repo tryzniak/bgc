@@ -3,7 +3,7 @@
 # vim: ts=4:sw=4:nosi:et:tw=72
 -->
 
-# Hello, World!
+# Вітаю, Свет!
 
 ## What to Expect from C
 
